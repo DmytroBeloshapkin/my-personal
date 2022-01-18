@@ -1,0 +1,332 @@
+h1 {
+    font-size: 60px;
+    font-style: bold;
+}
+h2 {
+    font-size: 30px;
+    font-style: bold;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+header {
+    display: flex;
+}
+
+.head1 {
+    background-color: #222222;
+    background: url(img/pechat.gif);
+    background-size: 1200px auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+    color: aliceblue;
+    margin-top: 150px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 150px;
+    padding-top: 150px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.head {
+    background-color: #222222;
+    color: aliceblue;
+}
+
+.for_me {
+    text-align: center;
+    display: flex;
+    background-color: #fff;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 300px;
+    padding-right: 200px;
+}
+.copyprint {
+    text-align: center;
+    display: flex;
+    background-color: #fff;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.Our_services_text {
+    text-align: center;
+    background-color: #222222;
+    color: aliceblue;
+    margin-bottom: 0px;
+}
+
+.Our_services {
+    display: flex;
+    background-color: #222222;
+    color: aliceblue;
+}
+
+.LARGE_FORMAT {
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 350px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.OFFSET_PRINTING {
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.DIGITAL_PRINTING {
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.SOUVENIR {
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 350px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.STITCHING {
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.OUTDOOR_ADVERTISING {
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.Contact_us {
+    text-align: center;
+    background: url(img/contacts.avif);
+    color: #222222;
+    opacity: 1;
+    background-size: 1900px auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 2px black;
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.contacts_us2 {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.galery {
+    text-align: center;
+}
+
+.button {
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+}
+
+.Reviews {
+    text-align: center;
+}
+
+.colum2 {
+    display: flex;
+
+}
+
+.block1 {
+    background-color: #222222;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    width: 33.33%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.block2 {
+    background-color: rgb(255, 249, 195);
+    color: black;
+    text-align: left;
+    width: 33.33%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.block3 {
+    background-color: #222222;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    width: 33.33%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.block11 {
+    background-color: rgb(255, 249, 195);
+    color: black;
+    text-align: left;
+    width: 33.33%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.block22 {
+    background-color: #222222;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    width: 33.33%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.block33 {
+    background-color: rgb(255, 249, 195);
+    color: black;
+    text-align: left;
+    width: 33.33%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.name_work {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.name_client {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.colum_rev {
+    display: flex;
+}
+
+.Customers {
+    text-align: center;
+    font-size: 16px;
+    background-color: #222222;
+    color: rgb(255, 255, 255);
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.contacts {
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.Link {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
